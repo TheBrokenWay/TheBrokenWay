@@ -73,6 +73,9 @@ here so the GitHub surface shows more of the intellectual path behind the
 products.
 
 - [Selected publications](PUBLICATIONS.md)
+- [Research lineage](RESEARCH_LINEAGE.md)
+- [Traction and revenue playbook](TRACTION_AND_REVENUE_PLAYBOOK.md)
+- [Target companies playbook](TARGET_COMPANIES_PLAYBOOK.md)
 
 ## How to read the public materials
 

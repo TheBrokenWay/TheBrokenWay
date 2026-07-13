@@ -16,12 +16,20 @@ materials from files that appear trade-secret, patent-sensitive, or internal.
     `C:\Users\tilla\OneDrive\Desktop\keep\CSA\Constitutional Synthetic Agency.pdf`
   - Role in the lineage:
     governance-first framing for synthetic agency and bounded control
+  - Abstract:
+    lays out a constitutional governance model for synthetic systems, with the
+    core idea that capable agents should be evaluated against explicit
+    operating constraints rather than loose post-hoc safety language
 
 - [The Archon Axiomatic System](publications/The_Archon_Axiomatic_System.pdf)
   - Source archive:
     `C:\Users\tilla\OneDrive\Desktop\keep\AAS\The Archon Axiomatic System.pdf`
   - Role in the lineage:
     invariant and systems framing for operational control
+  - Abstract:
+    frames system behavior through non-negotiable invariants, moving from
+    ethical aspiration into operational rules that can constrain what a system
+    may do in practice
 
 ### Foundational theory text
 
@@ -31,6 +39,10 @@ materials from files that appear trade-secret, patent-sensitive, or internal.
   - Role in the lineage:
     early mathematical and conceptual foundation text behind the later system
     abstractions
+  - Abstract:
+    captures the earliest unified theory layer that later evolved into the
+    governance and systems framing now represented by CSA, AAS, PredX, and
+    CageOS
 
 ## Intentionally not mirrored
 
