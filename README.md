@@ -66,6 +66,14 @@ If you want the fastest way to understand the work, start here:
   Public product-family overview  
   https://tillartechnologies.com
 
+## Selected papers and foundation texts
+
+I have started mirroring a small set of public-facing papers and origin texts
+here so the GitHub surface shows more of the intellectual path behind the
+products.
+
+- [Selected publications](PUBLICATIONS.md)
+
 ## How to read the public materials
 
 The public materials are structured to show the process without disclosing the
