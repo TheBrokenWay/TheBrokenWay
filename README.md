@@ -15,6 +15,29 @@ My central thesis is simple:
 - **CageOS Lite** — a public-facing governed tutoring demonstration of the same control pattern
 - **PredX** — governed pharmaceutical and scientific decision support
 
+## Genesis
+
+This work did not start as a governance project.
+
+It started with a scientific and pharmaceutical decision-support problem:
+how to build a system that could help reason about high-consequence domains
+without pretending that raw model output was trustworthy enough on its own.
+
+That led to the core realization behind the current product family:
+
+- science required governed execution, not just better answers
+- governed execution required an independent control layer
+- that control layer had value beyond science
+
+From there the work split into a modular family:
+
+- **PredX** kept the domain-specific scientific objective
+- **CageOS** became the shared governance substrate
+- **CageOS Lite** became the public proof surface that demonstrates the pattern
+
+If you are trying to understand the company, this sequence matters. Science was
+the starting pressure. Governance became the operating system.
+
 Company site:
 
 - https://tillartechnologies.com
@@ -42,6 +65,21 @@ If you want the fastest way to understand the work, start here:
 - **Tillar Technologies**  
   Public product-family overview  
   https://tillartechnologies.com
+
+## How to read the public materials
+
+The public materials are structured to show the process without disclosing the
+private mechanics.
+
+Read them in this order:
+
+1. **CageOS Lite Demo** for the visible governance pattern
+2. **CageOS overview** for the product thesis
+3. **Tillar Technologies** for the wider modular family context
+
+That sequence mirrors the actual genesis:
+domain pressure first, governance abstraction second, product-family framing
+third.
 
 ## What is public and what is not
 
