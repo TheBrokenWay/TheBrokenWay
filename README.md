@@ -50,6 +50,21 @@ Company site:
 - auditability and trust surfaces for high-consequence environments
 - modular product lines built on one governance standard
 
+## Who I’m looking for
+
+I am also looking for a complementary business and sales partner.
+
+The best fit is not a generic salesperson. The best fit is an operator who can:
+
+- translate deep technical work into buyer language without flattening it
+- open conversations with enterprise, startup-program, and strategic partners
+- build pipeline and commercial process around an early but serious product
+- respect trade-secret boundaries and high-trust positioning
+
+My strength is product direction, systems thinking, and persistence around hard
+problems. The complementary role is commercial execution, positioning,
+partnerships, and revenue development.
+
 ## Public proof surface
 
 If you want the fastest way to understand the work, start here:

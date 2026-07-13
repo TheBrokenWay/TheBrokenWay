@@ -87,6 +87,26 @@ It means the standard has to be higher:
 
 That is the direction behind Tillar Technologies.
 
+## Post 6 — looking for a partner
+
+I’m looking for a business / sales partner who complements how I build.
+
+My strength is product direction, systems thinking, governance architecture,
+and persistence around hard technical problems.
+
+The right counterpart is someone who can:
+
+- translate this into buyer language
+- open the right strategic and enterprise conversations
+- build pipeline and commercial discipline
+- help turn serious technical work into real revenue
+
+This is not a generic AI wrapper story. It needs someone who can understand
+deep product work without flattening it into hype.
+
+Profile and public materials:
+https://github.com/TheBrokenWay/TheBrokenWay
+
 ## Suggested cadence
 
 - Monday: thesis post

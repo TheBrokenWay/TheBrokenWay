@@ -14,6 +14,10 @@ to remain outside the model and inside an independent control path.
 The current public proof surface is CageOS Lite Demo, with the broader product
 family spanning CageOS and PredX.
 
+I am also looking for a business and sales partner who can complement a
+technical founder-led build with commercial positioning, pipeline creation, and
+strategic relationship development.
+
 ## 2. 100-word company summary
 
 Tillar Technologies is building governed systems for high-trust workflows. The
@@ -99,3 +103,13 @@ If someone asks what to look at first:
    https://github.com/TheBrokenWay/CageOS-Lite-Demo
 3. Tillar Technologies website:
    https://tillartechnologies.com
+
+## 8. Partner-search note
+
+If you want to include the partner ask directly:
+
+"I’m also looking for a complementary business and sales partner. My strength
+is product direction, governance architecture, and persistence around hard
+systems problems. The right counterpart would be strong in enterprise
+positioning, partnerships, pipeline building, and turning technical credibility
+into commercial traction."
