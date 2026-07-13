@@ -76,6 +76,11 @@ products.
 - [Research lineage](RESEARCH_LINEAGE.md)
 - [Traction and revenue playbook](TRACTION_AND_REVENUE_PLAYBOOK.md)
 - [Target companies playbook](TARGET_COMPANIES_PLAYBOOK.md)
+- [Social posts](SOCIAL_POSTS.md)
+- [Outreach packet](OUTREACH_PACKET.md)
+- [Video scripts](VIDEO_SCRIPTS.md)
+- [Publication cadence](PUBLICATION_CADENCE.md)
+- [Website copy for main agent](WEBSITE_COPY_FOR_MAIN_AGENT.md)
 
 ## How to read the public materials
 
