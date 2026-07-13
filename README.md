@@ -2,36 +2,77 @@
 
 Founder & CEO of Tillar Technologies LLC.
 
-Tillar Technologies builds governed systems for high-trust decisions, with current work centered on:
+I build governed systems for high-trust decisions.
 
-- Megalodon: an upcoming governed pharmaceutical decision platform
-- CageOS: deterministic governance for AI-assisted operations
-- resource-efficient execution for high-stakes computational workflows
-- verifier-centered release trust and deterministic acceptance
+My central thesis is simple:
 
-## Public Overview
+> most teams are trying to improve the model.
+> I am building the governance layer that tells the model what it is allowed to do.
 
-Public-facing platform and company information is available here:
+## Current product family
 
-- Company site: https://tillartechnologies.com
-- Megalodon overview: https://tillartechnologies.com/predx.html
-- CageOS overview: https://tillartechnologies.com/cageos.html
+- **CageOS** — governance infrastructure for bounded operational workflows
+- **CageOS Lite** — a public-facing governed tutoring demonstration of the same control pattern
+- **PredX** — governed pharmaceutical and scientific decision support
 
-## Public Surface Policy
+Company site:
 
-This GitHub profile is intentionally limited.
+- https://tillartechnologies.com
 
-- Public materials are overview-level and achievement-oriented.
-- Sensitive implementation details, internal research systems, and reproducible proprietary workflows are not published here.
-- Production claims are tied to validated platform materials and public-facing summaries, not raw private code.
+## What I’m working on
 
-## Focus
+- governance outside the model
+- bounded control for capable LLM and software workflows
+- deterministic review, escalation, and block patterns
+- auditability and trust surfaces for high-consequence environments
+- modular product lines built on one governance standard
 
-- governed computational systems
-- deterministic acceptance around stochastic tools
-- high-trust workflow design
-- pharmaceutical research systems
-- resource-aware platform engineering
+## Public proof surface
+
+If you want the fastest way to understand the work, start here:
+
+- **CageOS Lite Demo**  
+  Public demonstration of the Side A / Side B governed control pattern  
+  https://github.com/TheBrokenWay/CageOS-Lite-Demo
+
+- **CageOS overview**  
+  Buyer-facing explanation of CageOS as governance infrastructure  
+  https://tillartechnologies.com/cageos.html
+
+- **Tillar Technologies**  
+  Public product-family overview  
+  https://tillartechnologies.com
+
+## What is public and what is not
+
+This profile is intentionally selective.
+
+Public:
+
+- product framing
+- demo surfaces
+- high-level architecture claims
+- controlled proof points
+
+Not public:
+
+- enforcement internals
+- red-team catalogs
+- proprietary scientific workflows
+- private release and sealing mechanics
+- trade-secret control paths
+
+## Why this matters
+
+I do not think high-trust environments can rely on prompt-only restraint,
+after-the-fact review, or black-box outputs dressed up as governance.
+
+The work here is aimed at a different model:
+
+- the governed system does work
+- the governance layer remains outside the governed system
+- the outcome can be allowed, redirected, escalated, or blocked by an
+  independent control path
 
 ## Contact
 
