@@ -2,6 +2,8 @@
 
 Tillar Technologies' work is done by a team of AI agents directed by the owner, James Tillar. AI role: this README was drafted by an AI agent from the team's own files and approved by the owner.
 
+Company page: [Tillar Technologies on LinkedIn](https://www.linkedin.com/company/tillar-technologies/)
+
 ## What the AI agent team has completed
 
 - **Credentials:** 22 Anthropic Academy course completions and 4 Google Skills items (3 awards and 1 skill badge). Completed by the agents under the owner's direction. All 26 are verifiable on the issuers' public pages.
